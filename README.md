@@ -1,0 +1,5 @@
+<a href="https://ibb.co/23754zv"><img src="https://i.ibb.co/SwXJCkt/github-pedal.png" alt="github-pedal" border="0">
+
+The special feature of this pedal is the use of a capacitive sensor placed on the top of the pedal, enabling the guitarist to modify the parameters of the audio effects in real time by adjusting the distance between his foot and the capacitive plate. This solution is inspired by analogue wah-wah effect pedals, where a mechanical pedal connected to a potentiometer is used to modify the effect parameters. This solution is inspired by analogue wah-wah effect pedals, where a mechanical pedal connected to a potentiometer is used to modify the effect parameters. The advantage of a capacitive effect here is that it simplifies the pedal mechanics by simply using a metal plate. This initiative is also innovative, enabling the guitarist to vary an effect simply by moving his foot over a plate without touching it.
+
+The pedal was designed entirely by us using a Nucleo F303 board, and full details of its design (and those of the sensor) and the results obtained are available in the attached report.
